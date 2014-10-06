@@ -93,7 +93,7 @@ class NewVisitorTest(LiveServerTestCase):
         # Satisfied, they both go back to sleep
         
         
-        self.fail('Finish the test!')
+        #self.fail('Finish the test!')
 
 if __name__=='__main__':
     unittest.main(warnings='ignore')
